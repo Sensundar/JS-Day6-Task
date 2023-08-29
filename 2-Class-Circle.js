@@ -10,7 +10,7 @@ class Circle{
         this.radius = radius;
     }
     getColor(){
-        return this.getColorl
+        return this.getColor;
     }
     setColor(){
         this.color=color;
